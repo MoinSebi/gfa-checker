@@ -1,0 +1,11 @@
+[package]
+name = "gfacheck"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+description = "Checks gfa"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gfaR = "0.1.2"
